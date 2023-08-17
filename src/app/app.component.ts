@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = '05-expandir-angular-DBZ';
+  title = '02-angular-bases-heroes';
 }
